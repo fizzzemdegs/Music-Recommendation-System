@@ -1,0 +1,141 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,mood
+Maan Meri Jaan,Champagne Talk,King,1418IuVKQPTYqt7QNJ9RXN,10/12/2022,86,194653,0.698,0.354,0.505,0,0.0995,0.396,-8.242,0.0356,15,16,17,Happy
+Noor e Khuda (Ramzan),Noor e Khuda (Ramzan),Rahat Fateh Ali Khan,5X5gl4tmPmkFK3op3CRRno,3/22/2023,31,243012,0.582,0.0917,0.905,3.47E-06,0.109,0.63,-0.782,0.0542,15,16,17,Neutral
+O Bedardeya (From "Tu Jhoothi Main Makkaar"),O Bedardeya (From "Tu Jhoothi Main Makkaar"),Pritam,0czcoKJbJt08NqKrvSbbz7,3/4/2023,82,313051,0.582,0.794,0.418,0,0.109,0.243,-8.701,0.0288,15,16,17,Sad
+Nadaan Parinde,Rockstar,A.R. Rahman,6Z394Nd4gW6Ts9hmu3NUjx,10/1/2011,64,384000,0.507,0.414,0.741,3.95E-06,0.107,0.492,-7.456,0.0535,15,16,17,Angry
+Wavin' Flag - Coca-Cola? Celebration Mix,Troubadour (Champion Edition - Asian Version),K'NAAN,4nOygULhEuDO5ZBRNPFaso,2009,69,212520,0.58,0.313,0.767,0,0.0518,0.776,-4.174,0.0557,15,16,17,Fear
+Dil Dhadakne Do,Zindagi Na Milegi Dobara,Joi Barua,46elU7IBKWf55D5sjHGqO7,6/6/2011,62,230318,0.778,0.0705,0.599,0,0.59,0.949,-4.758,0.032,15,16,17,Happy
+Ilahi,Yeh Jawaani Hai Deewani,Pritam,5cgKosPPj5Cs9a2JQufUc1,3/30/2013,70,228982,0.593,0.166,0.967,2.54E-05,0.105,0.452,-5.767,0.0907,15,16,17,Neutral
+Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,Jatin-Lalit,4RixtPhUXlci9ad4qIMj23,8/13/1998,66,297866,0.547,0.602,0.554,0.000155,0.0735,0.848,-11.165,0.0374,15,16,17,Sad
+Airplanes (feat. Hayley Williams of Paramore),R&B,B.o.B,617xCVhCgPZwyJo7zLqr7R,8/3/2018,52,180333,0.658,0.106,0.866,0,0.0386,0.351,-4.271,0.115,15,16,17,Angry
+Raanjhanaa,Raanjhanaa (Original Motion Picture Soundtrack),A.R. Rahman,5OMUXgfXsSukZ0zxelpC3b,5/31/2013,73,254653,0.673,0.111,0.714,0,0.0858,0.78,-8.042,0.039,15,16,17,Fear
+Something Just Like This,Memories...Do Not Open,The Chainsmokers,6RUKPb4LETWmmr3iAEQktW,4/7/2017,86,247160,0.617,0.0498,0.635,1.44E-05,0.164,0.446,-6.769,0.0317,15,16,17,Happy
+Udd Gaye,Ved,Ritviz,5ZsAhuQ24mWHiduaxJqnhW,7/1/2019,67,180413,0.595,0.000712,0.817,0.0386,0.142,0.483,-6.187,0.0474,15,16,17,Happy
+sushi song,sushi song,When Chai Met Toast,5scUVb02Ea6aph7XAb2I7X,3/21/2023,44,154894,0.638,0.0256,0.794,4.29E-06,0.0812,0.707,-6.96,0.0697,15,16,17,Happy
+Yellow,alt-indie summer,Coldplay,2QYC7kRAEgUUJLc0KQPvp9,3/31/2023,5,266773,0.429,0.00239,0.661,0.000121,0.234,0.285,-7.227,0.0281,15,16,17,Sad
+Aaro Nenjil,Godha (Original Motion Picture Soundtrack),Gowry Lekshmi,6YINoRUOzEFYOnGwOafdEI,2017,61,267876,0.549,0.863,0.457,0.0789,0.0938,0.506,-9.953,0.0288,15,16,17,Sad
+Iraaday,Iraaday,Rovalio,6qrifdo7QINdPQr80IelGi,3/18/2022,72,133305,0.737,0.601,0.458,6.98E-06,0.138,0.456,-5.805,0.0317,15,16,17,Sad
+Fix You,My Romantic Soundtrack,Coldplay,4lcUDbXPJDeDFKcTkljz4U,3/24/2023,4,295533,0.209,0.164,0.417,0.00196,0.113,0.124,-8.74,0.0338,15,16,17,Neutral
+Nadaan Parinde,Rockstar,A.R. Rahman,6Z394Nd4gW6Ts9hmu3NUjx,10/1/2011,64,384000,0.507,0.414,0.741,3.95E-06,0.107,0.492,-7.456,0.0535,15,16,17,Neutral
+Night Changes,FOUR (Deluxe),One Direction,5O2P9iiztwhomNh8xkR9lJ,11/17/2014,89,226600,0.672,0.859,0.52,0,0.115,0.37,-7.747,0.0353,15,16,17,Neutral
+Set Fire to the Rain,21,Adele,3di5hcvxxciiqwMH1jarhY,1/24/2011,85,242973,0.603,0.00408,0.67,1.68E-06,0.112,0.446,-3.882,0.0249,15,16,17,Angry
+Rap God,The Marshall Mathers LP2 (Deluxe),Eminem,6or1bKJiZ06IlK0vFvY75k,11/5/2013,79,363521,0.708,0.397,0.843,0,0.799,0.625,-2.66,0.314,15,16,17,Angry
+Baarishein,Baarishein,Anuv Jain,5iCY0TXNImK4hyKfcplQsg,1/12/2018,79,207309,0.475,0.926,0.124,0,0.0972,0.19,-9.463,0.0444,15,16,17,Angry
+Don't You Worry Child - Radio Edit,Don't You Worry Child,Swedish House Mafia,2V65y3PX4DkRhy1djlxd9p,9/14/2012,83,212862,0.612,0.112,0.84,0,0.116,0.438,-3.145,0.0509,15,16,17,Fear
+Best Day Of My Life,"Oh, What A Life",American Authors,5Hroj5K7vLpIG4FNCRIjbP,1/1/2014,81,194240,0.673,0.0591,0.902,0.000262,0.0558,0.538,-2.392,0.0346,15,16,17,Fear
+Believer,Evolve,Imagine Dragons,0pqnGHJpmpxLKifKRmU6WP,6/23/2017,90,204346,0.776,0.0622,0.78,0,0.081,0.666,-4.374,0.128,15,16,17,Fear
+Aankh Marey (From "Simmba"),Aankh Marey (From "Simmba"),Neha Kakkar,63MvWd6T6yoS7h4AJ4Hjrm,12/6/2018,62,212741,0.796,0.289,0.978,0.00254,0.346,0.8,-1.266,0.0955,15,16,17,Happy
+Coca Cola (From "Luka Chuppi"),Coca Cola (From "Luka Chuppi"),Tony Kakkar,352wEkChkiClswqwDoM0nj,2/4/2019,64,179225,0.722,0.121,0.867,0.0052,0.123,0.893,-3.652,0.0904,15,16,17,Neutral
+Apna Time Aayega - Bakloli,School Ki Bakloli,Hemant Kunj,6QdZcSEI7rKVhJDhNJNfBa,4/1/2023,7,147655,0.627,0.847,0.497,0,0.68,0.848,-14.129,0.741,15,16,17,Angry
+Tu Mungada Mungada,Inkaar,Usha Mangeshkar,2hUU49kNHcTedAStEfsJTv,1/1/1977,42,191293,0.364,0.764,0.611,0.674,0.911,0.824,-8.315,0.0495,15,16,17,Happy
+Tere Bina,Arijit Singh Hits,Arijit Singh,6DnsSA2vn3uSBnG4K2y5Kt,3/27/2023,39,311302,0.63,0.469,0.467,0.00637,0.092,0.302,-10.278,0.0357,15,16,17,Sad
+Gali Gali (From "Kgf Chapter 1"),Gali Gali (From "Kgf Chapter 1"),Neha Kakkar,5x72Q1SyiDHJ4IF2mRzfkg,12/13/2018,68,174711,0.789,0.191,0.95,1.41E-05,0.0969,0.746,-3.604,0.0759,15,16,17,Fear
+Chamma Chamma Baaje Re,China - Gate (Original Motion Picture Soundtrack),Alka Yagnik,3k8d95A0dZbvSgOm0axIhL,11/27/1998,58,357840,0.82,0.255,0.833,0.000141,0.141,0.73,-8.665,0.133,15,16,17,Happy
+Mere Gully Mein (feat. Naezy),Mere Gully Mein (feat. Naezy),DIVINE,4NEdR5Yo8D2KwL7Y9KW7EH,4/16/2015,42,182934,0.744,0.000514,0.813,0,0.0685,0.149,-7.401,0.154,15,16,17,Happy
+Kamariya,Stree,Aastha Gill,5cjVsWqIkBQC7acTRhL0RO,8/22/2018,66,187982,0.825,0.143,0.666,2.81E-06,0.237,0.763,-4.847,0.0554,15,16,17,Angry
+Ek Ladki Ko Dekha Toh Aisa Laga - Title Track,Ek Ladki Ko Dekha Toh Aisa Laga,Darshan Raval,3IOgP2PSCTdoAID7VmMGEh,1/30/2019,73,155172,0.532,0.756,0.603,0,0.323,0.431,-7.575,0.0545,15,16,17,Neutral
+Swag Se Swagat,Tiger Zinda Hai,Vishal-Shekhar,2AjGLmuZK1fu21n1IpB9RU,12/12/2017,56,235944,0.825,0.0212,0.559,0.000689,0.205,0.207,-7.907,0.0722,15,16,17,Sad
+Poster Lagwa Do (From "Luka Chuppi"),Poster Lagwa Do (From "Luka Chuppi"),Mika Singh,5G1H1Im43gBwssOH8XlnNU,1/29/2019,43,178847,0.81,0.0454,0.846,9.14E-05,0.374,0.885,-4.451,0.0435,15,16,17,Happy
+Daaru Wargi (From "Why Cheat India"),High Rated Gabru - Guru Randhawa,Guru Randhawa,0CVyBitslO34Pe2KjzS2nS,3/2/2019,41,201542,0.812,0.0656,0.827,1.56E-05,0.138,0.609,-4.278,0.0815,15,16,17,Angry
+Dilbar (From "Satyameva Jayate"),Dilbar (From "Satyameva Jayate"),Neha Kakkar,4tjLYTXFqZhkUDga4bQ0yl,7/4/2018,68,184432,0.725,0.155,0.912,7.68E-05,0.107,0.674,-3.665,0.0851,15,16,17,Fear
+Proper Patola,Namaste England (Original Motion Picture Soundtrack),Badshah,39ujbBjTwwqUFySaCYDMMT,10/3/2018,72,178604,0.77,0.485,0.824,0,0.318,0.49,-6.491,0.0851,15,16,17,Angry
+Dooriyan,Love Aaj Kal (Original Motion Picture Soundtrack),Mohit Chauhan,5F79ZdjOwGOhUKRHx94sr1,7/31/2009,66,337360,0.523,0.633,0.714,0,0.0875,0.616,-6.584,0.0511,15,16,17,Sad
+Dil Diyan Gallan,Tiger Zinda Hai,Vishal-Shekhar,5MnAi6ZF7cE8pAz7wYr9Ta,12/12/2017,70,260536,0.716,0.565,0.64,0.00139,0.127,0.485,-8.726,0.025,15,16,17,Happy
+Husn Parcham (From "Zero"),Husn Parcham (From "Zero"),Bhoomi Trivedi,0k2modGW9JkPeVZSYQvWhz,12/12/2018,49,186602,0.737,0.0335,0.887,0.000168,0.0604,0.423,-5.017,0.1,15,16,17,Angry
+Bom Diggy Diggy,Bom Diggy Diggy (From "Sonu Ke Titu Ki Sweety"),Zack Knight,6qCNaRRr5xJALfNJvh0NAw,2/8/2018,69,238530,0.782,0.159,0.827,0,0.226,0.498,-4.219,0.0627,15,16,17,Happy
+Issaqbaazi,Zero,Sukhwinder Singh,31xUIiUCZxruoNhour84BR,12/21/2018,38,320474,0.652,0.266,0.72,0,0.0495,0.523,-8.62,0.0788,15,16,17,Sad
+Mere Naam Tu,Zero,Abhay Jodhpurkar,5fZ0oNVVUQe11KGpgcDCrY,12/21/2018,57,338593,0.382,0.698,0.398,0.000216,0.111,0.313,-10.026,0.0373,15,16,17,Neutral
+High Rated Gabru (From "Nawabzaade"),High Rated Gabru (From "Nawabzaade"),Guru Randhawa,1ozrNv9W4KlprAmvgH0Yrq,6/28/2018,64,179099,0.685,0.118,0.841,0,0.26,0.59,-2.932,0.0942,15,16,17,Fear
+Dekhte Dekhte,Batti Gul Meter Chalu,Rochak Kohli,1scGwkyXNCl19wrBDhnAWg,9/8/2018,67,256271,0.799,0.424,0.828,0,0.145,0.627,-4.846,0.0782,15,16,17,Angry
+Zingarata,Zingarata,Slava,5NUYoKf2V8bJkmqO6o5dQq,12/20/2018,26,230034,0.697,0.0218,0.778,0,0.15,0.485,-6.134,0.147,15,16,17,Happy
+Tareefan,Tareefan,Harnoor,38fyfLQMYfsrspaWvqE4Js,12/11/2022,65,202193,0.772,0.0661,0.357,0,0.177,0.684,-9.058,0.184,15,16,17,Sad
+Tu Mile Dil Khile,Tu Mile Dil Khile,Stebin Ben,6V7UVqe8XnAS4WPdpaw5TK,1/19/2023,75,197392,0.736,0.305,0.634,4.75E-06,0.08,0.366,-4.935,0.0307,15,16,17,Sad
+Dil Chori,Sonu Ke Titu Ki Sweety,Yo Yo Honey Singh,6zojSFiUNySBy3Kd1JVCXb,2/14/2018,58,226696,0.765,0.502,0.89,0,0.0423,0.918,-4.608,0.0824,15,16,17,Happy
+Tere Naal Nachna (From "Nawabzaade"),Tere Naal Nachna (From "Nawabzaade"),Badshah,5DIt4eq2D6CZjX1s5jwrnP,7/5/2018,63,166614,0.912,0.193,0.677,0,0.0939,0.94,-4.212,0.0713,15,16,17,Happy
+Dil Meri Na Sune,Genius (Original Motion Picture Soundtrack),Atif Aslam,4ILc7H2NfGbzbrHBclNOtB,8/24/2018,68,236000,0.574,0.349,0.729,1.85E-06,0.664,0.47,-4.2,0.0473,15,16,17,Happy
+Dhadak,Dhadak,Luksimi Sivaneswaralingam,0xGDBo0lr0l8D4AieNL189,7/22/2018,23,240561,0.365,0.89,0.291,0,0.318,0.249,-9.44,0.0394,15,16,17,Sad
+Heeriye,Race 3 (Original Motion Picture Soundtrack),Deep Money,26i54fXOWeA08Krvgwitxi,6/15/2018,55,305236,0.628,0.0711,0.876,0,0.165,0.566,-3.936,0.0591,15,16,17,Neutral
+Chogada (From "Loveyatri"),Chogada (From "Loveyatri"),Darshan Raval,4ymPEyiXabTe1NO8q8EFxG,8/14/2018,66,249741,0.359,0.136,0.972,2.52E-06,0.14,0.595,-3.452,0.109,15,16,17,Happy
+Gud Naal Ishq Mitha,Ek Ladki Ko Dekha Toh Aisa Laga,Navraj Hans,0194b9auOn1Ai9KRFGWTIZ,1/30/2019,50,219934,0.79,0.442,0.774,4.65E-06,0.15,0.924,-7.243,0.0915,15,16,17,Fear
+Paniyon Sa,Paniyon Sa (From "Satyameva Jayate"),Rochak Kohli,2si0ZNx4yRbggTvrIom8A2,7/12/2018,69,236239,0.523,0.447,0.768,0.000226,0.0833,0.669,-4.953,0.0566,15,16,17,Sad
+Milegi Milegi (From "Stree"),Milegi Milegi (From "Stree"),Mika Singh,52uiJsA4FrtAZlgqxCJwJI,8/2/2018,56,153744,0.843,0.0512,0.892,1.13E-06,0.101,0.655,-4.371,0.0527,15,16,17,Happy
+Morni Banke (From "Badhaai Ho"),Morni Banke (From "Badhaai Ho"),Guru Randhawa,2Wu9PNpLUCBl3W1GaPqkhl,9/26/2018,61,198025,0.816,0.178,0.922,0,0.373,0.887,-2.963,0.149,15,16,17,Neutral
+Bhare Bazaar,Bhare Bazaar,Rishi Rich,4j779sUc98SGgsEP4bl1N5,9/18/2018,43,214285,0.855,0.276,0.849,0,0.0302,0.699,-4.472,0.0549,15,16,17,Sad
+Khalibali,Padmaavat,Shivam Pathak,3JT0mVof65rIHpRZITwRx1,1/21/2018,58,258893,0.642,0.15,0.94,0,0.0989,0.645,-5.274,0.102,15,16,17,Neutral
+Aao Kabhi Haveli Pe,Stree,Badshah,0sUAJpnEbHak1FDXATrt2p,8/22/2018,55,172941,0.971,0.211,0.785,5.06E-05,0.0492,0.913,-5.117,0.058,15,16,17,Fear
+Badri Ki Dulhania (Title Track),Badrinath Ki Dulhania,Dev Negi,2xbvLQBFW7E9232BwMBljb,2/14/2017,61,206858,0.759,0.105,0.952,0,0.0693,0.812,-2.837,0.123,15,16,17,Sad
+Too Cheez Badi Hain,Mohra (Original Motion Picture Soundtrack),Udit Narayan,6wYKL1vzI0Vwkkz4fS7ana,4/2/1994,63,385853,0.692,0.545,0.875,5.78E-05,0.326,0.787,-7.381,0.0571,15,16,17,Happy
+Dholida,Dholida - Gangubai Kathiawadi,Sanjay Leela Bhansali,3e1JStKIIfidujpSzjqv3F,2/10/2022,55,179033,0.638,0.68,0.902,0,0.255,0.759,-4.936,0.0712,15,16,17,Happy
+sweetheart,sweetheart,Edvard Kravchuk,7d5LYgI4nXAQD0UdxMr8iE,1/9/2023,62,203418,0.259,0.995,0.0347,0.964,0.113,0.229,-35.626,0.0518,15,16,17,Fear
+Namo Namo Shivaay,Namo Namo Shivaay,Hansraj Raghuwanshi,0PVYn9f6tq9XJIiNYVPC7K,11/5/2021,52,199024,0.428,0.369,0.675,0,0.118,0.297,-5.607,0.0768,15,16,17,Neutral
+Qaafirana,Qaafirana,Arijit Anand,6ZW3xLsUU6FMwmL2Got8VD,7/3/2020,34,234264,0.668,0.543,0.406,0.0416,0.147,0.436,-13.072,0.0466,15,16,17,Sad
+Tu Hi Re - Bombay / Soundtrack Version,Bombay,Hariharan,6nwRC0UkS1MdOOMjcJsrbX,1/1/1994,55,435493,0.445,0.158,0.188,0,0.0958,0.357,-13.885,0.0336,15,16,17,Happy
+Chhote Chhote Peg,Sonu Ke Titu Ki Sweety,Yo Yo Honey Singh,3AQrBSjowqCFu2jiFFuGsv,2/14/2018,57,203881,0.831,0.328,0.908,0.00371,0.077,0.734,-3.317,0.101,15,16,17,Neutral
+Galti Se Mistake (From "Jagga Jasoos"),Groove With Arijit Singh,Arijit Singh,7fUMIEn7H6OYDOMQRMm1at,5/22/2019,52,203076,0.44,0.0173,0.797,0,0.164,0.708,-4.395,0.224,15,16,17,Happy
+Phir Mulaaqat (From "Cheat India"),Phir Mulaaqat (From "Cheat India"),Jubin Nautiyal,7eYJ9NjhLPtCjyoJfWpfMr,1/4/2019,54,250017,0.5,0.572,0.539,0,0.323,0.29,-8.127,0.0593,15,16,17,Neutral
+Kala Chashma,Kala Chashma,Sucha Yaar,3uE0llUPQn8JcfB9PotviP,11/8/2022,28,146881,0.756,0.237,0.672,0,0.157,0.552,-3.026,0.282,15,16,17,Happy
+Sheikh Chilli,Sheikh Chilli,Raftaar,6PKNPLFj5oE9eS7Og84993,1/8/2021,53,252000,0.839,0.15,0.936,0,0.116,0.554,-2.603,0.241,15,16,17,Fear
+Nashe Si Chadh Gayi,Befikre,Vishal-Shekhar,0biCSADTAblvLTLtJz4pXO,12/1/2016,72,237875,0.799,0.11,0.784,2.84E-06,0.227,0.26,-5.207,0.0519,15,16,17,Neutral
+Mera Pyar Tera Pyar,Jalebi (Original Motion Picture Soundtrack),Jeet Gannguli,22DrqPUQfcOkv6QmjvHFcB,9/21/2018,62,275371,0.638,0.825,0.471,0,0.0993,0.381,-7.025,0.0258,15,16,17,Sad
+Ding Dang,Munna Michael (Original Motion Picture Soundtrack),Amit Mishra,0UKa208Pf9GGD8T3W7NzC8,6/22/2017,44,202566,0.817,0.0719,0.762,2.34E-06,0.0401,0.542,-4.512,0.0473,15,16,17,Happy
+Main Tera Boyfriend,Raabta,Pritam,3InIAYQyi22mfV4g1T9Jkc,6/3/2017,60,276153,0.841,0.0958,0.914,0,0.115,0.651,-3.917,0.0613,15,16,17,Neutral
+Laila Mai Laila x MC STAN (Drill Remix),Laila Mai Laila x MC STAN (Drill Remix),Jaswant Shorya,3iIkLHAhJfkDSKNbJjtWLG,3/25/2023,37,254667,0.804,0.00117,0.906,7.47E-05,0.118,0.223,-4.054,0.141,15,16,17,Fear
+Ghoomar,Padmaavat,Shreya Ghoshal,3vJidBra6TBhO022fk6h8b,1/21/2018,55,282007,0.546,0.397,0.805,0,0.337,0.742,-7.417,0.126,15,16,17,Angry
+Rafta Rafta Medley,Yamla Pagla Deewana Phir Se,Vishal Mishra,4rDcXvKkHXuOZgGk4wCPLJ,8/31/2018,50,297888,0.533,0.22,0.842,0,0.808,0.78,-4.58,0.308,15,16,17,Neutral
+Pal,Arijit Singh Hits,Arijit Singh,5ICgkVPBqLlmzjyenTGF2b,3/27/2023,45,288000,0.617,0.318,0.406,0,0.0968,0.366,-10.532,0.0248,15,16,17,Fear
+Patola (From "Blackmail"),Patola (From "Blackmail"),Guru Randhawa,17LZzRCY0iFWlDDuAG7BlM,3/5/2018,61,184410,0.665,0.126,0.901,0,0.0692,0.914,-2.719,0.0508,15,16,17,Happy
+Pallo Latke,Nakhralo Devariyo,Seema Mishra,1aeJVD1LE7M4O6fY1rajjV,2/1/2002,20,339304,0.748,0.201,0.518,0,0.178,0.957,-11.65,0.0457,15,16,17,Neutral
+Main Badhiya Tu Bhi Badhiya,Sanju,Sonu Nigam,29wRh7aUncjPkqWVkZStH2,6/29/2018,42,274225,0.668,0.15,0.793,0,0.333,0.543,-7.368,0.0562,15,16,17,Fear
+Billionaire,Baazaar,Yo Yo Honey Singh,1CQbCPlzWj0hoLSlC4oSnq,10/20/2019,40,215238,0.816,0.0409,0.753,0,0.542,0.805,-3.295,0.0441,15,16,17,Sad
+This Party Is Over Now,This Party Is Over Now,Yo Yo Honey Singh,3pL1D9trWSLzE2Tmg0aLqa,8/30/2018,32,215077,0.864,0.141,0.787,1.56E-06,0.122,0.846,-4.488,0.103,15,16,17,Happy
+Heer Badnaam (From "Zero"),Heer Badnaam (From "Zero"),Romy,1mLjtKr1Mn1cnsTTozdeLK,12/20/2018,45,140764,0.837,0.116,0.724,0.0005,0.0676,0.343,-5.525,0.11,15,16,17,Neutral
+Tera Hua (From "Loveyatri"),Tera Hua (From "Loveyatri"),Atif Aslam,3zqFsowz5iGbYIxZW5KlKw,8/30/2018,64,214002,0.426,0.351,0.688,0,0.0998,0.239,-5.25,0.0443,15,16,17,Fear
+Jaan Nisaar,Jaan Nisaar,Abhishek Anil Sharma,41DE04bJToPXbyHgFh2FZl,9/16/2020,33,234782,0.507,0.668,0.311,0,0.121,0.105,-10.157,0.0287,15,16,17,Sad
+Akh Lad Jaave,Loveyatri - A Journey Of Love,Badshah,5SVpD60u9vjoQ2OeoKsTkb,10/3/2018,59,180175,0.867,0.00452,0.705,0,0.0868,0.285,-3.893,0.0522,15,16,17,Happy
+Rangtaari (From "Loveyatri"),Rangtaari (From "Loveyatri"),Dev Negi,0OvLWPmyhxdAV0OZNHDeTz,9/12/2018,47,217242,0.514,0.101,0.923,0,0.599,0.508,-3.306,0.253,15,16,17,Sad
+The Humma Song,OK Jaanu (Original Motion Picture Soundtrack),A.R. Rahman,7heMX7gyHP0mhTlNgd7Lxd,1/4/2017,68,179657,0.721,0.0115,0.65,0.00014,0.34,0.392,-6.95,0.135,15,16,17,Fear
+Pehli Baar,Dil Dhadakne Do,Sukriti Kakar,39GcR1iJpR2RX629O0zuW5,5/2/2015,55,263809,0.734,0.00147,0.738,0,0.113,0.813,-4.606,0.0368,15,16,17,Angry
+Tera Yaar Hoon Main,Sonu Ke Titu Ki Sweety,Rochak Kohli,4ZTx87kAgEwlPMzoojFZWg,2/14/2018,69,264805,0.559,0.34,0.541,4.66E-06,0.102,0.309,-5.525,0.0313,15,16,17,Happy
+Dilbar (From "Satyameva Jayate"),Dilbar (From "Satyameva Jayate"),Neha Kakkar,4tjLYTXFqZhkUDga4bQ0yl,7/4/2018,68,184432,0.725,0.155,0.912,7.68E-05,0.107,0.674,-3.665,0.0851,15,16,17,Happy
+Chhod Diya,Baazaar,Arijit Singh,0UWw7weI7mGNshTzRjeBd4,10/20/2019,52,319550,0.498,0.616,0.666,0,0.122,0.394,-6.176,0.0483,15,16,17,Happy
+Maine Tujhko Dekha,Maine Tujhko Dekha (From "Golmaal Again!!!"),Neeraj Shridhar,6TeQwZim9noPvf96kNwldZ,9/29/2017,59,207393,0.751,0.0735,0.81,6.61E-06,0.552,0.882,-6.076,0.0456,15,16,17,Neutral
+Allah Duhai Hai,Race 2 (Original Motion Picture Soundtrack),Atif Aslam,2TktNdu8PMfhApbWHDFSgZ,1/25/2012,53,255239,0.641,0.235,0.75,0,0.18,0.667,-5.813,0.0564,15,16,17,Angry
+Cham Cham,Baaghi,Meet Bros.,6GVv6Zn0zfN36sKDJY1axO,4/9/2016,55,261479,0.757,0.345,0.67,0,0.187,0.524,-6.414,0.102,15,16,17,Fear
+Kar Har Maidaan Fateh (From "Sanju"),Kar Har Maidaan Fateh (From "Sanju"),Sukhwinder Singh,3FHl1QYu76zguwjqhqcglX,6/10/2018,62,312157,0.557,0.0189,0.821,0,0.0863,0.184,-7.794,0.0573,15,16,17,Happy
+Kamariya,Stree,Aastha Gill,5cjVsWqIkBQC7acTRhL0RO,8/22/2018,66,187982,0.825,0.143,0.666,2.81E-06,0.237,0.763,-4.847,0.0554,15,16,17,Sad
+Tamma Tamma Again,Badrinath Ki Dulhania,Bappi Lahiri,5sqPE9h98DkO5ms20NUiUg,2/14/2017,58,199264,0.724,0.0787,0.848,9.16E-05,0.104,0.781,-4.724,0.0522,15,16,17,Fear
+Tera Fitoor,Genius (Original Motion Picture Soundtrack),Arijit Singh,1YMLgvsQdE27r30q0fsLeV,8/24/2018,68,310000,0.576,0.346,0.688,0.0439,0.262,0.726,-5.136,0.0319,15,16,17,Happy
+CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS"),CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS"),Justin Timberlake,6JV2JOEocMgcZxYSZelKcc,5/6/2016,80,236001,0.666,0.0123,0.83,0,0.191,0.702,-5.715,0.0751,15,16,17,Happy
+Uptown Funk (feat. Bruno Mars),Uptown Special,Mark Ronson,32OlwWuMpZ6b0aN2RZOeMS,1/12/2015,84,269666,0.856,0.00801,0.609,8.15E-05,0.0344,0.928,-7.223,0.0824,15,16,17,Happy
+Take on Me,Hunting High and Low,a-ha,2WfaOiMkCvy7F5fcp2zZ8L,6/1/1985,87,225280,0.573,0.018,0.902,0.00125,0.0928,0.876,-7.638,0.054,15,16,17,Happy
+Billie Jean,Thriller 25 Super Deluxe Edition,Michael Jackson,5ChkMS8OtdzJeqyybCc9R5,2/8/2008,83,293826,0.92,0.0236,0.654,0.0153,0.036,0.847,-3.051,0.0401,15,16,17,Happy
+Hotel California - 2013 Remaster,Hotel California (2013 Remaster),Eagles,40riOy7x9W7GXjyGp4pjAv,12/8/1976,85,391376,0.579,0.00574,0.508,0.000494,0.0575,0.609,-9.484,0.027,15,16,17,Neutral
+The Scientist,A Rush of Blood to the Head,Coldplay,75JFxkI2RXiU7L9VXzMkle,8/8/2002,86,309600,0.557,0.731,0.442,1.46E-05,0.11,0.213,-7.224,0.0243,15,16,17,Neutral
+7 Years,Lukas Graham,Lukas Graham,5kqIPrATaCc2LqxVWzQGbk,4/1/2016,82,237300,0.765,0.287,0.473,0,0.391,0.34,-5.829,0.0514,15,16,17,Neutral
+34+35,Positions,Ariana Grande,6Im9k8u9iIzKMrmV7BWtlF,10/30/2020,81,173710,0.83,0.237,0.585,0,0.248,0.485,-6.476,0.094,15,16,17,Neutral
+Run Away With Me,Emotion (Deluxe),Carly Rae Jepsen,7xGfFoTpQ2E7fRF5lN10tr,9/25/2015,36,251320,0.564,0.0126,0.719,0.000177,0.0536,0.251,-5.505,0.0475,15,16,17,Neutral
+All Along the Watchtower,Electric Ladyland,Jimi Hendrix,2aoo2jlRnM3A0NyLQqMN2f,10/25/1968,78,240800,0.438,0.00255,0.805,5.69E-05,0.0842,0.564,-6.237,0.0624,15,16,17,Neutral
+Hall of Fame (feat. will.i.am),#3 Deluxe Version,The Script,7wMq5n8mYSKlQIGECKUgTX,9/10/2012,82,202533,0.421,0.0654,0.873,0,0.123,0.629,-4.343,0.0564,15,16,17,Neutral
+All of Me,Love In The Future (Expanded Edition),John Legend,3U4isOIWM3VvDubwSI3y7a,8/30/2013,87,269560,0.422,0.922,0.264,0,0.132,0.331,-7.064,0.0322,15,16,17,Neutral
+Sweet Child O' Mine,Appetite For Destruction,Guns N' Roses,7o2CTH4ctstm8TNelqjb51,7/21/1987,69,354520,0.454,0.0866,0.91,0.0996,0.116,0.629,-7.766,0.0448,15,16,17,Neutral
+Can't Stop,By the Way (Deluxe Edition),Red Hot Chili Peppers,3ZOEytgrvLwQaqXreDs2Jx,7/9/2002,84,269000,0.618,0.0179,0.938,0,0.167,0.875,-3.442,0.0456,15,16,17,Neutral
+Stronger,Graduation,Kanye West,4fzsfWzRhPawzqhX8Qt9F3,9/11/2007,8,311866,0.617,0.00564,0.717,0,0.408,0.49,-7.858,0.153,15,16,17,Neutral
+Yesterday - Remastered 2009,Help! (Remastered),The Beatles,3BQHpFgAp4l80e1XslIjNI,8/6/1965,79,125666,0.332,0.879,0.179,0,0.0886,0.315,-11.83,0.0326,15,16,17,Sad
+Starman - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),David Bowie,0pQskrTITgmCMyr85tb9qq,6/6/1972,79,254293,0.486,0.166,0.449,2.23E-06,0.54,0.549,-10.298,0.0267,15,16,17,Sad
+Dark Horse,PRISM (Deluxe),Katy Perry,5jrdCoLpJSvHHorevXBATy,10/18/2013,79,215672,0.645,0.00314,0.585,0,0.165,0.353,-6.122,0.0513,15,16,17,Sad
+Someone Like You,21,Adele,4kflIGfjdZJW4ot2ioixTB,1/19/2011,1,285040,0.559,0.892,0.33,0,0.0975,0.285,-8.251,0.0285,15,16,17,Sad
+Fix You,X&Y,Coldplay,7LVHVU3tWfcxj5aiPFEW4Q,6/7/2005,84,295533,0.209,0.164,0.417,0.00196,0.113,0.124,-8.74,0.0338,15,16,17,Sad
+Creep,Pablo Honey,Radiohead,6b2oQwSGFkzsMtQruIWm2p,2/22/1993,3,238640,0.515,0.0102,0.43,0.000141,0.129,0.104,-9.935,0.0369,15,16,17,Sad
+Mr. Brightside,Hot Fuss,The Killers,3n3Ppam7vgaVa1iaRUc9Lp,6/15/2004,67,222200,0.355,0.00119,0.918,0,0.0971,0.24,-4.36,0.0746,15,16,17,Sad
+In the End,Hybrid Theory (Bonus Edition),Linkin Park,60a0Rd6pjrkxjPbaKzXjfq,10/24/2000,88,216880,0.556,0.00958,0.864,0,0.209,0.4,-5.87,0.0584,15,16,17,Angry
+Under Pressure - Remastered 2011,Hot Space (2011 Remaster),Queen,2fuCquhmrzHpu5xcA1ci9x,5/3/1982,82,248440,0.671,0.429,0.712,0,0.103,0.462,-7.815,0.0476,15,16,17,Angry
+WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),Cardi B,4Oun2ylbjFKMPTiaSbbCih,8/7/2020,81,187541,0.935,0.0194,0.454,0,0.0824,0.357,-7.509,0.375,15,16,17,Angry
+Here Comes The Sun - Remastered 2009,Abbey Road (Remastered),The Beatles,6dGnYIeXmHdcikdzNNDMm2,9/26/1969,85,185733,0.557,0.0339,0.54,0.00248,0.179,0.394,-10.484,0.0347,15,16,17,Angry
+In the End,Hybrid Theory (Bonus Edition),Linkin Park,60a0Rd6pjrkxjPbaKzXjfq,10/24/2000,88,216880,0.556,0.00958,0.864,0,0.209,0.4,-5.87,0.0584,15,16,17,Angry
+Karma Police,OK Computer,Radiohead,3SVAN3BRByDmHOhKyIDxfC,5/28/1997,0,264066,0.36,0.0626,0.505,9.22E-05,0.172,0.317,-9.129,0.026,15,16,17,Fear
+Blinding Lights,After Hours,The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,3/20/2020,92,200040,0.514,0.00146,0.73,9.54E-05,0.0897,0.334,-5.934,0.0598,15,16,17,Fear
+champagne problems,evermore (deluxe version),Taylor Swift,1gcyHQpBQ1lfXGdhZmWrHP,1/7/2021,73,244000,0.462,0.92,0.24,0,0.113,0.32,-12.077,0.0377,15,16,17,Fear
+Locked out of Heaven,Unorthodox Jukebox,Bruno Mars,3w3y8KPTfNeOKPiqUTakBh,12/7/2012,88,233478,0.726,0.049,0.698,0,0.309,0.867,-4.165,0.0431,15,16,17,Fear
+Bad and Boujee (feat. Lil Uzi Vert),Culture,Migos,4Km5HrUvYTaSUfiSGPJeQR,4/7/2017,5,343150,0.926,0.0611,0.666,0,0.123,0.168,-5.314,0.244,15,16,17,Fear
+Wow.,Hollywood's Bleeding,Post Malone,7xQAfvXzm3AkraOtGPWIZg,9/6/2019,83,149546,0.829,0.136,0.539,1.78E-06,0.103,0.388,-7.359,0.208,15,16,17,Fear
+Till I Collapse,The Eminem Show,Eminem,4xkOaSrkexMciUUogZKVTS,5/26/2002,87,297786,0.548,0.0622,0.847,0,0.0816,0.1,-3.237,0.186,15,16,17,Fear
