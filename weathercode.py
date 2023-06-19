@@ -6,7 +6,7 @@ def weather_tag():
     g = geocoder.ip('me')
     lat, lng = g.latlng
 
-    owm = OWM('8aa4f173bbbb157abbce710e59499f7c')  # Replace YOUR_API_KEY with your OpenWeatherMap API key
+    owm = OWM('######')  # Replace YOUR_API_KEY with your OpenWeatherMap API key
     mgr = owm.weather_manager()
     observation = mgr.weather_at_coords(lat, lng)
     weather = observation.weather
